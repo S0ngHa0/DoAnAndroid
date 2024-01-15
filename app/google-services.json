@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719480285514",
+    "project_id": "message-clone-bc3e7",
+    "storage_bucket": "message-clone-bc3e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719480285514:android:a78b04f58d30e0cb5239b3",
+        "android_client_info": {
+          "package_name": "com.mobile.messageclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQBLE54-sekZcne19PfypIqjRSbhtgFGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
